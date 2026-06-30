@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+h1 {
+    color: blueviolet;
+}
+
+.left {
+    text-align: left;
+    color: red;
+}
+
+.center {
+    text-align: center;
+    color: yellow;
+}
+
+.right {
+    text-align: right;
+    color: goldenrod;
+}
+
+.justify {
+    /* text-align: justify; */
+    color: aquamarine;
+}
